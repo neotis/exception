@@ -1,6 +1,6 @@
 <?php
 
-namespace Neotis\Filesystem;
+namespace Neotis\Exception;
 
 
 class Exception extends \Exception

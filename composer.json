@@ -5,7 +5,7 @@
     "keywords": [],
     "license": "MIT",
     "autoload": {
-        "psr-4": { "Neotis\\Filesystem\\": "" },
+        "psr-4": { "Neotis\\Exception\\": "" },
         "exclude-from-classmap": [
             "/test/"
         ]
