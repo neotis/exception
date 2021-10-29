@@ -1,12 +1,9 @@
 {
-    "name": "neotis/filesystem",
-    "description": "Neotis Frameowrk - File System",
+    "name": "neotis/exception",
+    "description": "Neotis Frameowrk - Exception",
     "type": "library",
     "keywords": [],
     "license": "MIT",
-    "require": {
-        "symfony/finder": "^5.3"
-    },
     "autoload": {
         "psr-4": { "Neotis\\Filesystem\\": "" },
         "exclude-from-classmap": [
